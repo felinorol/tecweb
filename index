@@ -1,0 +1,117 @@
+<!DOC TYPE html>
+<html lang = "pt-br">
+	<html>
+
+		<head>
+			<title> X-SHOES </title>
+
+			<style type = "text/css">	
+			.interfaces{background-color:white;}			
+			html, body {margin:0;
+			padding:0;
+			}
+			.regiao1{text-align:center
+			;}
+			
+
+			.titulo{color:grey;
+			background-color:white;
+			font-family:"28 days letters";
+			text-shadow: 0.1em 0.1em 0.2em black}
+
+			.região3{display:inline-block;
+			width:50%;
+			text-align:center;
+			background-image:E4F1FE;}
+
+			.lado{
+			display:inline-block;
+			text.align:center;}
+			</style>
+
+		</head>
+
+		<body>
+
+			<div class = "interfaces">
+
+				<header class= "regiao1">
+
+					<hgroup>
+
+						<div class="titulo">
+							<h1>  LÉO TOPPER</h1> 
+							<h2> Conforto & estilo em um só lugar! </h2>
+						</div>
+
+					</hgroup>
+
+					<p id = "cabeçalho" > <a href = ""> <input type = "button" name = "menu principal"value="menu principal"> &nbsp &nbsp </a>
+					<a href = "file:///H:/pagina%20quem%20somos.html"> <input type = "button" name = "quem somos"value="quem somos"> &nbsp &nbsp </a>
+					<a href = ""> <input type = "button" name = "menu principal"value=" login/cadastro"> &nbsp &nbsp </a> 
+					<a href = ""><input type = "button" name = "menu principal"value=" contato " > &nbsp &nbsp </a> </p> 
+					<p id =  "banner">
+						<img src ="H:\e-commerce\imagens\banner.jpg" height="425" width="1300">
+						</p>
+
+					</header>
+
+
+					<div class = "regiao2">
+						<UL TYPE="disc">
+						</br>
+						<a href = "">
+							<LI>lançamentos</LI>
+						</a>
+					</br>
+					<a href = "">
+						<LI>corrida</LI>
+					</a>
+				</br>
+				<a href = "">
+					<LI>casual</LI>
+				</a>
+			</br>
+			<a href = "">
+				<LI> skate</LI>
+			</a>
+		</UL>
+	</div>
+
+
+	<div class = "região3">
+		<h3>  Tenis polo branco  </h3> 
+		<img src ="H:\e-commerce\imagens\polo.jpg" height="185px" width = "180px" 
+	alt = "polo">
+			<h3> R$199,90 </h3> 
+
+		</br>
+
+		<h3>  Tenis nike shox branco com preto  </h3> 
+		<img src ="H:\e-commerce\imagens\nikeshox.jpg" height="185px" width="180px" alt = "nikeshox">		
+			<h3>  R$499,90 </h3> 
+
+		</div>
+
+		<div class = "lado">	
+		</br>
+			<h3> Tenis QIX preto </h3> 
+			<img src ="H:\e-commerce\imagens\qix.jpg" height="185px" width="280px" alt = "qix"> 		
+				<h3>  R$299,90  </h3> 
+			<h3> Tenis adidas cinza com branco </h3> 
+			<img src ="H:\e-commerce\imagens\adidas.jpg" height="185px" width="280px" alt = "adidas"> 	
+				<h3>  R$229,90  </h3>
+			</div>
+
+
+			<div class= "rodapé">
+
+-localização
+-cnpj
+-empresa
+todos os direitos reservados @
+
+
+			</div>
+		</body>
+	</html>
